@@ -6,6 +6,11 @@
 
   - name: skidanje fajla sa neta
     get_url:
-      url: https://www.radimpex.rs/downloads/manuals/tw8/Tower_8_razlike_SRB.pdf
-      dest: /home/$USER/test.pdf
+      url: https://github.com/nikolalakic/pajaPOC/blob/master/test_skripta.sh
+      dest: /home/$USER/test_skripta.sh
       mode: '0755'
+      follow: no
+  
+  -name: Pokretanje skripte
+    shell:
+      cmd: /usr/bin/bash /home/$USER/test_skripta.sh
