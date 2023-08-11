@@ -10,6 +10,8 @@
       dest: /home/$USER/test_skripta.sh
       mode: '0755'
       
+  - name: Kopiranje skripte na target
+    raw: scp -P 51821 nikolal@192.168.1.2:/home/$USER/test_skripta.sh /home/$USER/
+  
   - name: Pokretanje skripte
-    shell:
-      cmd: /usr/bin/bash /home/$USER/test_skripta.sh
+    raw: /usr/bin/bash /home/$USER/test_skripta.sh
