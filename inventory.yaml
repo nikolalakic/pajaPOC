@@ -1,0 +1,13 @@
+all:
+  children:
+    lokalno:
+      hosts:
+        127.0.0.1:
+      vars:
+        ansible_port=22: 
+    sajt:
+      hosts:
+        nekisajt:
+      vars:
+        ansible_port=22: 
+ 

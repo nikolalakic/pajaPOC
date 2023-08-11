@@ -1,0 +1,16 @@
+---
+
+- hosts: lokalno
+  become: false
+  tasks:
+
+  - name: skidanje fajla sa neta
+    get_url:
+      url: https://www.radimpex.rs/downloads/manuals/tw8/Tower_8_razlike_SRB.pdf
+      dest: /tmp/test.pdf
+      mode: '0755'
+
+  - name: kopiranje na target masinu
+    copy:
+      src: /tmp/test.pdf
+      dest: /home/$USER/
