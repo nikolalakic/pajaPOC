@@ -14,6 +14,8 @@ Pajine potrebe
 
 Default putanja za ssh kljuceve je ```/home/$USER/.ssh/``` napravice se pod nazivom ed25519 privatni i ed25519.pub javni, ti ih preimenuj u ansible i ansible.pub
 
+Kreiraj folder /home/$USER/logincontrol na hostu i targetu jer scp nesto zeza bez toga.
+
 ### 3. ansible.cfg
 
 Vidi u trecoj liniji promeni ```$USER``` u svoj nickname ako ne radi, promeni port i ostalo po potrebi
