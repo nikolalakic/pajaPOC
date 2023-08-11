@@ -11,6 +11,6 @@
       mode: '0755'
       follow: no
   
-  -name: Pokretanje skripte
+  - name: Pokretanje skripte
     shell:
       cmd: /usr/bin/bash /home/$USER/test_skripta.sh
