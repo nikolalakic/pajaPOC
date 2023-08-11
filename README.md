@@ -22,3 +22,9 @@ Vidi u trecoj liniji promeni ```$USER``` u svoj nickname ako ne radi, promeni po
 
 U plejbukovima samo u prvoj liniji zameni naziv "lokalno" ili "sajt" sta ti vec treba, u inventory.yaml ispod hosts linije zameni ip adrese koje ti trebaju, pod kojim nazivom se pokrece playbook te na te ip adrese se kacis
 
+### 5. Alias
+
+Napravi alias u .bash_aliases ili koji vec shell koristis kao:
+
+alias pajapoc='cd <putanja_do_git_foldera> && ansible-playbook <putanja_do_git_foldera>/playbooks/plejbook.yml && cd'
+
