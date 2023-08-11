@@ -5,12 +5,11 @@
   tasks:
 
   - name: skidanje fajla sa neta
-    get_url:
+    ansible.builtin.get_url:
       url: https://raw.githubusercontent.com/nikolalakic/pajaPOC/master/test_skripta.sh
       dest: /home/$USER/test_skripta.sh
       mode: '0755'
-      follow: no
-  
+      
   - name: Pokretanje skripte
     shell:
       cmd: /usr/bin/bash /home/$USER/test_skripta.sh
