@@ -2,9 +2,9 @@ all:
   children:
     lokalno:
       hosts:
-        127.0.0.1:
+        192.168.1.2:
       vars:
-        ansible_port=22: 
+        ansible_port=51822: 
     sajt:
       hosts:
         nekisajt:
