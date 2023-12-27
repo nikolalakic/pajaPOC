@@ -1,5 +1,4 @@
 import random
-
 import pandas as pd
 
 df = pd.read_excel('Filmovi_serije.xlsx')
@@ -12,5 +11,3 @@ link = filmovi_imdb[filmovi_imdb_index]
 
 print(f'\nNasumicni film je: ', film)
 print(f'IMDB link za nasumicni film je: ', link)
-
-
