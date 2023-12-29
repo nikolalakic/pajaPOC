@@ -1,1 +1,0 @@
-echo "Radi!" > radi.txt
