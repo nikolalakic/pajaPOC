@@ -35,6 +35,23 @@
 <li>Andjela (devojka)</li>
 <li>Ivona (Andjelina sestra)</li>
 <li>Jovana ristic</li>
+
+### Zvanice Pavle
+
+<li>Dimi</li>
+<li>Cofi</li>
+<li>Haris</li>
+<li>David</li>
+<li>Boban</li>
+<li>Pera</li>
+<li>Beracka</li>
+<li>Rade</li>
+<li>Darja</li>
+<li>Jovana</li>
+<li>Tamara</li>
+<li>Bodin</li>
+<li>Nesko</li>
+
 </ol>
 
 Kolege bih zvao posebno u PO na rucak
