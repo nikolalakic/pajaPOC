@@ -15,7 +15,7 @@
 <li>Tica +</li>
 <li>Tanja +</li>
 <li>Stuki +</li>
-<li>Kata</li>
+<li>Kata +</li>
 <li>Todorovicka</li>
 <li>Minja +</li>
 <li>Nikola +</li>
