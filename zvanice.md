@@ -12,9 +12,9 @@
 <li>Misicka +</li>
 <li>Kaca</li>
 <li>Anita</li>
-<li>Tica</li>
-<li>Tanja</li>
-<li>Stuki</li>
+<li>Tica +</li>
+<li>Tanja +</li>
+<li>Stuki +</li>
 <li>Kata</li>
 <li>Todorovicka</li>
 <li>Minja +</li>
