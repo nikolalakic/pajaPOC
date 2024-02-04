@@ -19,7 +19,7 @@
 <li>Todorovicka</li>
 <li>Minja +</li>
 <li>Nikola +</li>
-<li>Saric</li>
+<li>Saric +</li>
 <li>Sofija</li>
 <li>Zeka</li>
 <li>Ana Mitrovic</li>
@@ -34,7 +34,7 @@
 
 ### Zvanice Pavle
 
-<li>Dimi</li>
+<li>Dimi +</li>
 <li>Darja +</li>
 <li>Jovana +</li>
 <li>Mihajlo</li>
