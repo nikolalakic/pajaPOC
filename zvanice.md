@@ -32,9 +32,5 @@
 
 ### Zvanice Nikola
 
-<li>Andjela (devojka)</li>
-<li>Ivona (Andjelina sestra)</li>
 <li>Jovana ristic</li>
 </ol>
-
-Kolege bih zvao posebno u PO na rucak
