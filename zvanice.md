@@ -7,9 +7,9 @@
 
 ### Zajednicke
 
-<li>Sef</li>
-<li>Polina</li>
-<li>Misicka</li>
+<li>Sef +</li>
+<li>Polina +</li>
+<li>Misicka +</li>
 <li>Kaca</li>
 <li>Anita</li>
 <li>Tica</li>
