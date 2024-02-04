@@ -38,7 +38,7 @@
 
 <li>Dimi</li>
 <li>Darja</li>
-<li>Jovana</li>
+<li>Jovana +</li>
 <li>Mihajlo</li>
 <li>Bodin</li>
 <li>Nesko</li>
