@@ -37,17 +37,11 @@
 ### Zvanice Pavle
 
 <li>Dimi</li>
-<li>Cofi</li>
-<li>Haris</li>
-<li>David</li>
-<li>Boban</li>
-<li>Pera</li>
-<li>Beracka</li>
-<li>Rade</li>
 <li>Darja</li>
 <li>Jovana</li>
-<li>Tamara</li>
+<li>Mihajlo</li>
 <li>Bodin</li>
 <li>Nesko</li>
+<li>Hari</li>
 
 </ol>
