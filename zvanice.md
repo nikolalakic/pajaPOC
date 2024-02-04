@@ -19,8 +19,6 @@
 <li>Todorovicka</li>
 <li>Minja +</li>
 <li>Nikola +</li>
-<li>Smeki</li>
-<li>Djuka</li>
 <li>Saric</li>
 <li>Sofija</li>
 <li>Zeka</li>
