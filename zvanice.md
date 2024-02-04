@@ -17,8 +17,8 @@
 <li>Stuki</li>
 <li>Kata</li>
 <li>Todorovicka</li>
-<li>Minja</li>
-<li>Nikola</li>
+<li>Minja +</li>
+<li>Nikola +</li>
 <li>Smeki</li>
 <li>Djuka</li>
 <li>Saric</li>
