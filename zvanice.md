@@ -7,19 +7,18 @@
 
 ### Zajednicke
 
-<li>Sef +</li>
-<li>Polina +</li>
-<li>Misicka +</li>
+<li>Sef</li>
+<li>Polina</li>
+<li>Misicka</li>
 <li>Kaca</li>
 <li>Anita</li>
-<li>Tica +</li>
-<li>Tanja +</li>
-<li>Stuki +</li>
-<li>Kata +</li>
-<li>Todorovicka</li>
-<li>Minja +</li>
-<li>Nikola +</li>
-<li>Saric +</li>
+<li>Tica</li>
+<li>Tanja</li>
+<li>Stuki</li>
+<li>Kata</li>
+<li>Minja</li>
+<li>Nikola</li>
+<li>Saric</li>
 <li>Sofija</li>
 <li>Zeka</li>
 <li>Ana Mitrovic</li>
@@ -34,11 +33,9 @@
 
 ### Zvanice Pavle
 
-<li>Dimi +</li>
-<li>Darja +</li>
-<li>Jovana +</li>
-<li>Mihajlo</li>
-<li>Bodin</li>
+<li>Dimi</li>
+<li>Darja</li>
+<li>Jovana</li>
 <li>Nesko</li>
 <li>Hari</li>
 
