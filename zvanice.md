@@ -22,7 +22,6 @@
 <li>Sofija</li>
 <li>Zeka</li>
 <li>Ana Mitrovic</li>
-<li>Milan</li>
 <li>Laza</li>
 <li>Ivana</li>
 <li>Marija</li>
