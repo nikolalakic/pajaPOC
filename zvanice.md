@@ -25,6 +25,8 @@
 <li>Laza</li>
 <li>Ivana</li>
 <li>Marija</li>
+<li>Pavle Lakic</li>
+<li>Nikola Lakic</li>
 
 ### Zvanice Nikola
 
