@@ -10,7 +10,7 @@ class KreiranjeFoldera:
         if self.korisnik == 'nikolal':
             putanja = "A:/"
         else:
-            putanja = f"c:/Users/{self.korisnik}/Documents"
+            putanja = f"c:/Users/{self.korisnik}/Documents/"
         return putanja
 
     def kreiranjefoldera(self):
