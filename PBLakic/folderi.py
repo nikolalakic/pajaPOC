@@ -36,10 +36,7 @@ class KreiranjeFoldera:
         folder = self.kreiranjefoldera()
         os.chdir(folder + '/Osnove')
         os.system('wget https://github.com/nikolalakic/pajaPOC/blob/master/PBLakic'
-                  '/Za_download/Osnove.dwg"')
-        os.system('wget https://github.com/nikolalakic/pajaPOC/blob/master/PBLakic'
-                  '/Za_download/preklapanje.dwg"')
-
+                  '/DWG_Fajlovi.7z"')
 
 def main():
     klasa = KreiranjeFoldera()
