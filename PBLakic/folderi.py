@@ -35,8 +35,7 @@ class KreiranjeFoldera:
     def skidanje(self):
         folder = self.kreiranjefoldera()
         os.chdir(folder + '/Osnove')
-        os.system('wget https://github.com/nikolalakic/pajaPOC/blob/master/PBLakic'
-                  '/DWG_Fajlovi.7z"')
+        os.system('wget https://github.com/nikolalakic/pajaPOC/blob/master/PBLakic/Za_download/DWG_Fajlovi.7z')
 
 def main():
     klasa = KreiranjeFoldera()
